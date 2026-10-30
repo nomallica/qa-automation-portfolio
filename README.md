@@ -2,7 +2,7 @@
 
 ## 説明動画
 
-[説明動画を見る](./videos/portfolio-explanation.mov)
+[説明動画を見る](https://youtu.be/6Ri9pPEq2zo)
 
 ## テストコード
 
